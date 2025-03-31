@@ -1,4 +1,4 @@
-# Backroad-react
+# zeo-tours-react
 This website shows tour details from an API. Users can view tour information and remove tours they are not interested in. It is built with React.
  
 <strong style="font-weight:bold; display:block; width:100%;">https://zeo-tours-react.netlify.app/</strong>
